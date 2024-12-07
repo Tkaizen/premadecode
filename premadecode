@@ -1,0 +1,49 @@
+Enter customer name: John Doe
+
+--- Billing System ---
+1. Add Item
+2. Set Discount
+3. Generate Bill
+4. Exit
+Enter your choice: 1
+Enter item name: Apple
+Enter item price: $1.50
+Enter item quantity: 5
+Added 5 x Apple to the bill.
+
+--- Billing System ---
+1. Add Item
+2. Set Discount
+3. Generate Bill
+4. Exit
+Enter your choice: 1
+Enter item name: Banana
+Enter item price: $0.75
+Enter item quantity: 10
+Added 10 x Banana to the bill.
+
+--- Billing System ---
+1. Add Item
+2. Set Discount
+3. Generate Bill
+4. Exit
+Enter your choice: 2
+Enter discount percentage: 10
+Discount set to 10%.
+
+--- Billing System ---
+1. Add Item
+2. Set Discount
+3. Generate Bill
+4. Exit
+Enter your choice: 3
+
+--- Customer Bill ---
+Customer: John Doe
+Itemized List:
+Apple (x5): $7.50
+Banana (x10): $7.50
+
+Subtotal: $15.00
+Discount: 10% = -$1.50
+Total: $13.50
